@@ -13,9 +13,9 @@
 #define CAN0_EN 11
 #define CAN0_INT 12
 
-#define CAN1_CS 13
-#define CAN1_EN 14
-#define CAN1_INT 15
+#define CAN1_CS 14
+#define CAN1_EN 15
+#define CAN1_INT 16
 
 #define HV_COMMAND_ID 0x600
 #define HV_STATUS_ID 0x601
